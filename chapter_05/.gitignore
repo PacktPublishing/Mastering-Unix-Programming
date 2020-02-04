@@ -1,0 +1,12 @@
+binio
+buftype
+fgetc
+fgets
+fmemopen
+fstatus
+fwide
+open_memstream
+psprintf
+reopen
+scanf
+ungetc
